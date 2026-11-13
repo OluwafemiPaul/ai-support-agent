@@ -2,7 +2,7 @@
 
 **An AI customer support agent for a fintech startup that answers only from the company's help center, cites its sources, and hands risky or account specific questions to a human with a ready to use ticket.**
 
-**Live demo:** https://ai-support-agent-nu-two.vercel.app/· Works with no setup: click a sample question.
+**Live demo:** https://ai-support-agent-nu-two.vercel.app/ Works with no setup: click a sample question.
 
 > Ledgerly is a fictional company created for this portfolio project. All help articles and data are made up.
 
